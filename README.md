@@ -2,7 +2,9 @@
 
 🚀 Welcome to my digital playground! I’m Aryan, a cloud and containerization aficionado. 🧙‍♂️✨ Whether I’m managing Docker containers or turbocharging AWS setups, I’m your go-to for making technology not just work, but dazzle.
 
-📚 When I’m not weaving through the cloudscapes, you might catch me lost in a novel or brewing the perfect cup of tea... yup, I'm a tea person, hold the coffee! 📖☕ Fancy a chat about the latest DevOps wonders or want to collaborate on some tech magic? Let’s make the tech world a bit more brilliant together!
+📚 When I’m not weaving through the cloudscapes, you might catch me lost in a novel or brewing the perfect cup of tea... yup, I'm a tea person, hold the coffee! 📖☕ 
+
+Fancy a chat about the latest DevOps wonders or want to collaborate on some tech magic? Let’s make the tech world a bit more brilliant together!
 
 ## 💌 Let's Connect!
 

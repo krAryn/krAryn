@@ -6,8 +6,7 @@
 
 ## 💌 Let's Connect!
 
-Got a question about Kubernetes? Dreaming up a new cloud architecture? Or maybe you just wanna share a tea recommendation? 🌟🍵 
-Let's blend our ideas like the perfect cup of Darjeeling First Flush!
+Got a question about Kubernetes? Dreaming up a new cloud architecture? Or maybe you just wanna share a tea recommendation? 🌟🍵 Let's blend our ideas like the perfect cup of Darjeeling First Flush!
 
 📫 Shoot me an email anytime: [aj619119orp@gmail.com](mailto:aj619119orp@gmail.com)  
 🔗 Connect with me on LinkedIn for a virtual tea party and tech talk: [in/kraryn](https://www.linkedin.com/in/kraryn)  

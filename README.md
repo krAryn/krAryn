@@ -4,8 +4,6 @@
 
 📚 When I’m not weaving through the cloudscapes, you might catch me lost in a novel or brewing the perfect cup of tea... yup, I'm a tea person, hold the coffee! 📖☕ 
 
-Fancy a chat about the latest DevOps wonders or want to collaborate on some tech magic? Let’s make the tech world a bit more brilliant together!
-
 ## 💌 Let's Connect!
 
 Got a question about Kubernetes? Dreaming up a new cloud architecture? Or maybe you just want to share a tea recommendation? 🌟🍵 Let's blend our ideas like the perfect cup of Darjeeling First Flush!
